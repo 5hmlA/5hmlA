@@ -37,6 +37,8 @@ Android开发
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZuYun&repo=Jgraph)](https://github.com/ZuYun/Jgraph)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZuYun&repo=JAdapter)](https://github.com/ZuYun/JAdapter)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZuYun&repo=JPagerSlidingTabStrip)](https://github.com/ZuYun/JPagerSlidingTabStrip)
 
 <!--end_CollaboratorRepo-->
