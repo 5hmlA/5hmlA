@@ -11,7 +11,7 @@
 Android开发
 谷歌粉
 
-<a href="#"><img align="right" src="https://cdn.jsdelivr.net/gh/ZuYun/pictures/jzy.png" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://raw.githubusercontent.com/ZuYun/ZuYun/master/pictures/jzy.png" width="200 " height="200" /></a>
 
 ## 🪶 个人作品
 
