@@ -13,21 +13,13 @@ Android开发
 
 <a href="#"><img align="right" src="https://raw.githubusercontent.com/ZuYun/ZuYun/master/pictures/jzy.png" width="200 " height="200" /></a>
 
-## 🪶 个人作品
-
-<!-- Personal works starts -->
-
-* todo
-
-
-<!-- Personal works ends -->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZuYun&title=Stars,Followers,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-## 🌟相关参与开源项目
+## 🌟 🪶 个人作品
 
 <table width="800px">
 <tr>
