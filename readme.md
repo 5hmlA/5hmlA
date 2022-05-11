@@ -4,35 +4,3 @@
  Hi there, I'm <a href="https://ZuYun.github.io/ZuYun" target="_blank">ZuYun</a> 
   </i>
 </h1>
-
-
-## 🖥 简介
-
-Android开发
-谷歌粉
-
-<a href="#"><img align="right" src="https://raw.githubusercontent.com/ZuYun/ZuYun/master/pictures/jzy.png" width="200 " height="200" /></a>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZuYun&title=Stars,Followers,Commit)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-## 🌟 🪶 个人作品
-
-<table width="800px">
-<tr>
-<td valign="top" width="50%">
- 🧷 
-<!--start_CollaboratorRepo-->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZuYun&repo=Jgraph)](https://github.com/ZuYun/Jgraph)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZuYun&repo=JAdapter)](https://github.com/ZuYun/JAdapter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZuYun&repo=JPagerSlidingTabStrip)](https://github.com/ZuYun/JPagerSlidingTabStrip)
-
-<!--end_CollaboratorRepo-->
-
-
