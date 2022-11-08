@@ -4,9 +4,7 @@
   </i>
 </h1>
 
-<a href="https://github.moeyy.xyz/https://raw.githubusercontent.com/ZuYun/ZuYun/master/pictures/jzy.png">![微信](https://img.shields.io/badge/wechat-ZuYun-666666?style=for-the-badge&logo=wechat&logoColor=ffffff&labelColor=7BB32E)</a> 
-
-<a href="mailto :jonas.jzy@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-jonas.jzy@gmail.com-666666?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836)</a>
+<a href="https://github.moeyy.xyz/https://raw.githubusercontent.com/ZuYun/ZuYun/master/pictures/jzy.png">![微信](https://img.shields.io/badge/wechat-ZuYun-666666?style=for-the-badge&logo=wechat&logoColor=ffffff&labelColor=7BB32E)</a>  <a href="mailto :jonas.jzy@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-jonas.jzy@gmail.com-666666?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836)</a>
 
 ### 🍔 
 
