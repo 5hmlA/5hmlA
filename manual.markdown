@@ -27,3 +27,5 @@
 |[typing.js](https://github.com/coffeedeveloper/typing.js) |[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
 |[Font Awesome](https://www.thinkcmf.com/font/search/index.html) & [icons8](https://icons8.com)|[w3cschool-javascript](https://www.w3school.com.cn/js/index.asp)|
 | [waka-readme](https://github.com/athul/waka-readme)|[www.jq22.com](https://www.jq22.com/webqd1311)|
+
+

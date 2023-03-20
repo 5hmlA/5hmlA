@@ -46,3 +46,4 @@ function drawStr() {
 }
 //每隔30毫秒执行一次
 setInterval(drawStr, 30);
+
