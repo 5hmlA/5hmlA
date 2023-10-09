@@ -1,0 +1,116 @@
+﻿export http_proxy="http://localhost:1080"   
+export https_proxy="http://localhost:1080"
+
+export http_proxy="http://localhost:8580"   
+export https_proxy="http://localhost:8580"
+
+dart pub publish --dry-run
+
+read_pakcage
+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
+
+admin
+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
+
+dev_secret
+github token
+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
+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
+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
+
+https://raw.githubusercontent.com/5hmlA/5hmlA/space/publish-plugin.gradle
+
+dev_credentials
+AppData\Local\Pub\Cache\credentials.json
+{"accessToken":"ya29.a0ARrdaM9IeY0l4r7LuoztFqW1K8B24l3e6IUNKdE11pI6ALcb-kaaeQvo6bid5QMfS1lhislFtugcHD8LMIukwl0mla0KaHUrueBcX1g4dQeTCG_lOpCoMyXWAKCgg1hOl8q57FP-ZuW3w2QPUFCVc7zctSUb","refreshToken":"1//06Sn3BN8kxYnVCgYIARAAGAYSNwF-L9IrzwSeOIIDIPer7uf4-eZj6kr41I8P3WZl89OJimPwTMVPrJ15n0mn15pq12zQ9_lPrHc","idToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjI3YzcyNjE5ZDA5MzVhMjkwYzQxYzNmMDEwMTY3MTM4Njg1ZjdlNTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiODE4MzY4ODU1MTA4LThncmQyZWc5dGo5ZjM4b3M2ZjF1cmJjdnNxMzk5dThuLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiODE4MzY4ODU1MTA4LThncmQyZWc5dGo5ZjM4b3M2ZjF1cmJjdnNxMzk5dThuLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExNjU1NDM1Nzg2MTU0ODI1MTg4IiwiZW1haWwiOiJqb25hcy5qenlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJHMXdtVTBUUUlWTWxqRGVGZDdRT0d3IiwiaWF0IjoxNjM2OTgzNTMzLCJleHAiOjE2MzY5ODcxMzN9.NAP-If7ryUuZmxCzItMQ-GxXLBl9LUHCVs9v5CeQkXwdITN-UDWcMmOQ0GDRh2pvJW6C-uGR5_aAkghZtnXC643wdLjHKnurP-2oBc_XY86l1s31PLG_4kdDLHy9uZhBitEerJmqD_8MRB3-3QmAXDLiUMFoo8WdXIlGryaxjaHNqsuWIS1QP3u_vlc8ERtsDX-3aif9yTKNnFsgLjE44RJSss9AdrQ5lGTQ-dCB595QzqeWSINwK6WoQ91NgXUc_vl0zt4j43kac-ezY8PCMJrz6YtiQgoA4WQHl8utNKyJolvLTxvXGGwMIqz9cSTwQ9nY48d6KpJ_reYzXYnnkA","tokenEndpoint":"https://accounts.google.com/o/oauth2/token","scopes":["https://www.googleapis.com/auth/userinfo.email","openid"],"expiration":1636987121674}
+
+https://shields.io/
+
+clone指定分支
+git clone -b [branch name] [project url]
+git clone -b space git@github.com:5hmlA/5hmlA.git
+
+添加tag
+git tag v1.1
+git tag -a v1.1 -m "备注信息"
+//推送某个tag
+git push origin v1.1
+//推送本地所有tag
+git push origin --tags
+
+删除tag
+git tag -d v1.1
+推送删除的tag
+git push origin :refs/tags/v1.1
+
+查看远程地址
+git remote -v
+# View existing remotes
+# origin  https://github.com/user/repo.git (fetch)
+# origin  https://github.com/user/repo.git (push)
+
+git remote set-url origin https://github.com/user/repo2.git
+# Change the 'origin' remote's URL
+
+
+ndk.dir=D:\\0_0DevTools\\Android\\SDK\\ndk\\23.1.7779620
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+flutter build web
+https://flutter-explained.dev/blog/setup-a-flutter-web-project-on-github-pages/
+
+
+ming5432166
+
+通过移动热点让其他设备翻墙
+1, ipconfig 查看本地链接ipv4地址 192.168.74.138
+2,手机连wifi 代理选择手动代理 服务器 192.168.74.138,  端口 1080
+
+adb shell pm disable-user com.google.android.accessibility.soundamplifier
+
+
+# 为library编译flutter web 同时发布为github page 网页源码分支为gh-page，通过 user.github.io/repo/可以访问
+name: lib web
+on:
+  push:
+    branches:
+      - main
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build Web
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # 建立  环境
+      - name: 🐧  Flutter action
+        uses: subosito/flutter-action@v2.3.0
+        with:
+          flutter-version: '2.x'
+          channel: 'stable'
+      - run: flutter --version
+      - name: 🍏 build flutter web
+        run: |
+          cd example
+          flutter pub get
+          flutter build web --release --base-href /${{github.event.repository.name}}/
+      - name: 💡 deploy github page
+        run: |
+          cd example/build/web
+          git init
+          # type configurations: your user.email and user.name followed lines
+          # git config --global user.email your_email
+          # git config --global user.name your_name
+          git config --global user.email jonas.jzy@gmail.com
+          git config --global user.name ZuYun
+          git status
+          git remote add origin https://${{secrets.dev_secret}}@github.com/${{github.repository}}.git
+          git checkout -b gh-pages
+          git add --all
+          git commit -m "update"
+          git push origin gh-pages -f
