@@ -1,14 +1,7 @@
 apply plugin: 'maven-publish'
 
-//task sourceJar(type: Jar) {
-//    from sourceSets.all
-//    classifier "sources"
-//}
 
-task sourceJar(type: Jar) {
-    from android.sourceSets.main.java.getSrcDirs() // 源码路径
-    archiveClassifier = "sources"
-}
+//https://developer.android.google.cn/studio/publish-library/upload-library?hl=zh-cn#groovy
 
 afterEvaluate {
     publishing {
@@ -31,7 +24,6 @@ afterEvaluate {
             //name会成为任务名字的一部分 publish [osp] PublicationToLocalTestRepository
             osp(MavenPublication) {
                 from components.release
-                artifact sourceJar // 上传源码
                 groupId rootProject.ext.GROUP_ID
                 artifactId rootProject.ext.ARTIFACT_ID
                 version rootProject.ext.VERSION
